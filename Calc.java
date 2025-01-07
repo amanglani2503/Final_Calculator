@@ -9,6 +9,9 @@ class Calc{
 	void mul(int a, int b){
 		System.out.println(a-b);
 	}
+	void div(int a, int b){
+		System.out.println(a/b);
+	}
 
 	public static void main(String[] args){
 		int a = 10, b =5;
